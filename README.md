@@ -1,7 +1,6 @@
 📊 Data Analytics Project
 
 🚀 Overview
-
 This project demonstrates the complete workflow of a beginner-level **Data Analytics Project** using Python, SQL, PostgreSQL, and Power BI. The main objective was to understand how raw data can be transformed into meaningful insights through data cleaning, analysis, querying, and visualization.
 
 This project helped in learning practical concepts such as:
